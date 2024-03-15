@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello ！
+联系方式：imdongziyi@163.com
 
 ### 基本信息
 ------
