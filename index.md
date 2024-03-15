@@ -6,8 +6,8 @@ Hello ！
 
 ### 教育经历
 ------
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+2018.9 - 2022.6 江西理工大学-信息安全-学士
+2023.9 - 至今 河南大学-网络与信息安全-硕士研究生（在读）
 
 
 ### 工作经历
