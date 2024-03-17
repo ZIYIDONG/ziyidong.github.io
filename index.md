@@ -2,7 +2,7 @@
 layout: default
 ---
 
-联系方式：imdongziyi@163.com
+联系方式：dongziyi@henu.edu.cn
 
 个人简历：[CV](/CV_Ziyi_Dong.pdf)
 
