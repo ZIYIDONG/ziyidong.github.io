@@ -9,9 +9,9 @@ redirect_from:
 
 
 Profile
-------
+=======
 Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Paper
-------
+======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
