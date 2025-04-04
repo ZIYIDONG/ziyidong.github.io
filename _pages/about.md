@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Ziyi Dong"
+title: "Profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-Profile
-=======
 xxxxxxxxxxxxxxxxxxx
 
 Paper
