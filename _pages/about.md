@@ -27,13 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Publications
 
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Ke Yuan, Ziyi Dong, Xiuling Li, Zheli Liu, Chunfu Jia∗, and Shuwang Lv. "FCB-BIPS: A Fair and Collusion-Resistant Batch-Based Bidding Information Pre-Distribution System for Electricity Auctions." IEEE Internet of Things Journal, vol. xx, 2025, p. xx. (SCI二区TOP) [PDF](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
