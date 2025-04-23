@@ -22,7 +22,7 @@ My research interest includes Applied Cryptography, and Post-Quantum Cryptograph
 
 # Publications
 
-- Ke Yuan, Ziyi Dong, Xiuling Li, Zheli Liu, Chunfu Jia<sup>†</sup>, and Shuwang Lv. "FCB-BIPS: A Fair and Collusion-Resistant Batch-Based Bidding Information Pre-Distribution System for Electricity Auctions." ***IEEE Internet of Things Journal***, vol. xx, 2025, p. xx. [https://doi.org/](https://doi.org/).（SCI二区TOP）
+- Ke Yuan, Ziyi Dong, Xiuling Li, Zheli Liu, Chunfu Jia<sup>†</sup>, and Shuwang Lv. "FCB-BIPS: A Fair and Collusion-Resistant Batch-Based Bidding Information Pre-Distribution System for Electricity Auctions." ***IEEE Internet of Things Journal***, Under Review, 2025.
 
 
 # Honors and Awards
@@ -33,4 +33,3 @@ My research interest includes Applied Cryptography, and Post-Quantum Cryptograph
 # Educations
 - *2023.09 - now*, Henan University, Network and Information Security, Master's degree (Expected 2026). 
 - *2018.09 - 2022.06*, Jiangxi University of Science and Technology, Information Security, Bachelor's degree. 
-
