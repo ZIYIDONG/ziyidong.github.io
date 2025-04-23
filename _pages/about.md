@@ -26,8 +26,8 @@ My research interest includes Applied Cryptography, and Post-Quantum Cryptograph
 
 
 # Honors and Awards
-- *2024* First-Class Scholarship for Master's Students (Henan University). 
-- *2023* First-Class Scholarship for Master's Students (Henan University)​. 
+- *2024* First-Class Academic Scholarship for Master's Students.
+- *2023* First-Class Academic Scholarship for Master's Students.
 
 
 # Educations
