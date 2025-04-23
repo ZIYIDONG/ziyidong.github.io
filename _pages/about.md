@@ -26,9 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications
-#### <sup>*</sup> Equal Contributions, <sup>†</sup> Corresponding author
 
-- Ke Yuan, Ziyi Dong, Xiuling Li, Zheli Liu, Chunfu Jia<sup>†</sup>, and Shuwang Lv. "FCB-BIPS: A Fair and Collusion-Resistant Batch-Based Bidding Information Pre-Distribution System for Electricity Auctions." ___IEEE Internet of Things Journal___, vol. xx, 2025, p. xx. [https://doi.org/](https://doi.org/).（SCI二区TOP）
+- Ke Yuan, Ziyi Dong, Xiuling Li, Zheli Liu, Chunfu Jia<sup>*</sup>, and Shuwang Lv. "FCB-BIPS: A Fair and Collusion-Resistant Batch-Based Bidding Information Pre-Distribution System for Electricity Auctions." ___IEEE Internet of Things Journal___, vol. xx, 2025, p. xx. [https://doi.org/](https://doi.org/).（SCI二区TOP）
 
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -40,7 +39,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
