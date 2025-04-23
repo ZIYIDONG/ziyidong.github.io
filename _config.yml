@@ -12,7 +12,7 @@ repository               : "ziyidong/ziyidong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+#google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -22,19 +22,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dong, Ziyi"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Kaifeng, China"
+  avatar           : "images/avatar.jpg"
+  bio              : "Applied Cryptography, Post-Quantum Cryptography"
   employer         :
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_IEAuEkAAAAJ&hl=zh-CN&authuser=1"
   email            : "ziyi.dong@foxmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   github           : # e.g., "ZIYI.DONG"
   google_plus      :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/0009-0003-5180-0200"
 
