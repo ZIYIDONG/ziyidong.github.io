@@ -33,7 +33,7 @@ author:
   google_plus      :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/0009-0003-5180-0200"
+  orcid            : "https://orcid.org/0009-0003-5180-0200"
 
 
 # Reading Files
