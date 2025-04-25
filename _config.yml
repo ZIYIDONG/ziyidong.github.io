@@ -26,9 +26,9 @@ author:
   bio              : "Applied Cryptography, Post-Quantum Cryptography"
   email            : "ziyi.dong@foxmail.com"
   github           : "ZIYIDONG"
-  dblp             : "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : #"https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0003-5180-0200"
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dong-Ziyi"
   googlescholar    : "https://scholar.google.com/citations?user=_IEAuEkAAAAJ&hl=zh-CN&authuser=1"
 
 
