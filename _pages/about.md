@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-My research interest includes Applied Cryptography, and Post-Quantum Cryptography.
+My research interest includes **Cryptography and Its Applications** ( Post-Quantum Cryptography, Homomorphic Encryption ), **Smart Grid Data Security and Privacy Protection**.
 
 
 # Publications
