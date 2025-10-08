@@ -1,18 +1,16 @@
-title: Your awesome title
+title: Ziyi Dong
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Ziyi Dong
+  email: dongziyi_cs@163.com
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  description.
 
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 sass:
   quiet_deps: true
@@ -34,6 +32,8 @@ minima:
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
   nav_pages:
+    - Biography.md
+    - Education.md
     - about.md
     - publications.md
 

@@ -4,15 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Publications
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- Ke Yuan, Ziyi Dong, Xiuling Li, Zheli Liu, Chunfu Jia<sup>*</sup>, and Shuwang Lv. "An Efficient and Collusion-Resistant Key Parameters Pre-Distribution System for Day-Ahead Electricity Auctions". IEEE Internet of Things Journal. Early Access, 30 Sept. 2025. DOI: 10.1109/JIOT.2025.3616212. (SCI二区, IF=8.9, <span style="color: red;">Top</span>)
