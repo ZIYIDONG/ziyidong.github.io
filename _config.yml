@@ -32,10 +32,10 @@ minima:
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
   nav_pages:
-    - Biography.md
-    - Education.md
-    - about.md
+    - biography.md
+    - education.md
     - publications.md
+    - award.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
