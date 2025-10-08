@@ -33,10 +33,9 @@ minima:
   #   should be rendered.
   nav_pages:
     - biography.md
-    - education.md
     - publication.md
+    - education.md
     - award.md
-    - about.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
