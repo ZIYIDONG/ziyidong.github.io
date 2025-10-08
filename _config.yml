@@ -34,6 +34,7 @@ minima:
   nav_pages:
     - biography.md
     - publication.md
+    - about.md
     - education.md
     - award.md
 
