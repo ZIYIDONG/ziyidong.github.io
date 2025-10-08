@@ -1,12 +1,6 @@
 title: Ziyi Dong
 theme: minima
 
-site:
-  minima:
-    nav_pages:
-      - about.md
-      - contact.md
-      
 # navigation bar items
 header_pages:
         - about.md
