@@ -6,3 +6,8 @@ site:
     nav_pages:
       - about.md
       - contact.md
+      
+# navigation bar items
+header_pages:
+        - about.md
+        - index.md
