@@ -4,4 +4,5 @@ theme: minima
 # navigation bar items
 header_pages:
         - about.md
+        - publications
         - index.md
